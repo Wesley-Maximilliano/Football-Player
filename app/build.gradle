@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace 'com.if4a.footballplayer'
+    namespace 'com.if4a.football_player'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.if4a.footballplayer"
-        minSdk 24
+        applicationId "com.if4a.football_player"
+        minSdk 21
         targetSdk 33
         versionCode 1
         versionName "1.0"
